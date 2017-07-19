@@ -1,6 +1,10 @@
 {
   "name": "mattedesign/magento2-italian-provinces",
   "description": "Modulo per l'installazione delle province italiane in Magento2",
+  "homepage": "https://github.com/mattedesing/md_italianprovinces",
+  "license": [
+    "OSL-3.0",
+  ],
   "authors": [
     {
       "name": "Matteo Nieddu",
@@ -19,8 +23,5 @@
   ],
   "autoload": {
     "files": [ "registration.php" ],
-    "psr-4": {
-      "mattedesing\\italianprovinces\\": ""
-    }
   }
 }
