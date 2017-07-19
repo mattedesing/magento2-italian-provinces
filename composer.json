@@ -1,6 +1,6 @@
 {
   "name": "mattedesign/magento2-italian-provinces",
-  "description": "Modulo per l'installazione delle province italiane in Magento2",
+  "description": "Modulo per l'installazione delle province italiane in Magento 2",
   "homepage": "https://github.com/mattedesing/md_italianprovinces",
   "license": [
     "OSL-3.0",
@@ -24,7 +24,7 @@
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-        "mattedesing\\md_italianprovinces\\": ""
+        "MatteDesing\\ItalianProvinces\\": ""
     }
   }
 }

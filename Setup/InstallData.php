@@ -1,5 +1,5 @@
 <?php
-namespace mattedesign\italianprovinces\Setup;
+namespace MatteDesign\ItalianProvinces\Setup;
 
 use Magento\Directory\Helper\Data;
 use Magento\Framework\Setup\InstallDataInterface;
