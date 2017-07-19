@@ -23,8 +23,8 @@
   ],
   "autoload": {
     "files": [ "registration.php" ],
-  "psr-4": {
+    "psr-4": {
         "mattedesing\\md_italianprovinces\\": ""
-  }
+    }
   }
 }
