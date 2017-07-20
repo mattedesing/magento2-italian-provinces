@@ -1,4 +1,4 @@
-# md_italianprovinces
+# Magento2 - Italian Provinces
 
 Modulo province italiane per Magento 2 
 
